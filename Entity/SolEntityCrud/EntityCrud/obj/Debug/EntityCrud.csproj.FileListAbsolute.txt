@@ -1,0 +1,34 @@
+C:\Users\Marko\Desktop\Kolokvijumska c#\Entity\SolEntityCrud\EntityCrud\bin\Debug\EntityCrud.exe.config
+C:\Users\Marko\Desktop\Kolokvijumska c#\Entity\SolEntityCrud\EntityCrud\bin\Debug\EntityCrud.exe
+C:\Users\Marko\Desktop\Kolokvijumska c#\Entity\SolEntityCrud\EntityCrud\bin\Debug\EntityCrud.pdb
+C:\Users\Marko\Desktop\Kolokvijumska c#\Entity\SolEntityCrud\EntityCrud\bin\Debug\EntityFramework.dll
+C:\Users\Marko\Desktop\Kolokvijumska c#\Entity\SolEntityCrud\EntityCrud\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Marko\Desktop\Kolokvijumska c#\Entity\SolEntityCrud\EntityCrud\bin\Debug\EntityFramework.xml
+C:\Users\Marko\Desktop\Kolokvijumska c#\Entity\SolEntityCrud\EntityCrud\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Marko\Desktop\Kolokvijumska c#\Entity\SolEntityCrud\EntityCrud\obj\Debug\EntityCrud.csprojAssemblyReference.cache
+C:\Users\Marko\Desktop\Kolokvijumska c#\Entity\SolEntityCrud\EntityCrud\obj\Debug\EntityCrud.Properties.Resources.resources
+C:\Users\Marko\Desktop\Kolokvijumska c#\Entity\SolEntityCrud\EntityCrud\obj\Debug\EntityCrud.csproj.GenerateResource.cache
+C:\Users\Marko\Desktop\Kolokvijumska c#\Entity\SolEntityCrud\EntityCrud\obj\Debug\EntityCrud.csproj.CoreCompileInputs.cache
+C:\Users\Marko\Desktop\Kolokvijumska c#\Entity\SolEntityCrud\EntityCrud\obj\Debug\EntityCrud.csproj.CopyComplete
+C:\Users\Marko\Desktop\Kolokvijumska c#\Entity\SolEntityCrud\EntityCrud\obj\Debug\EntityCrud.exe
+C:\Users\Marko\Desktop\Kolokvijumska c#\Entity\SolEntityCrud\EntityCrud\obj\Debug\EntityCrud.pdb
+C:\Users\Marko\Desktop\Kolokvijumska c#\Entity\SolEntityCrud\EntityCrud\obj\Debug\EntityCrud.Form1.resources
+C:\Users\Marko\Desktop\Kolokvijumska c#\Entity\SolEntityCrud\EntityCrud\obj\Debug\EntityCrud.Insert.resources
+C:\Users\Marko\Desktop\Kolokvijumska c#\Entity\SolEntityCrud\EntityCrud\obj\Debug\EntityCrud.Update.resources
+D:\Fakultet\Kolokvijumska 2 c#\Entity\SolEntityCrud\EntityCrud\bin\Debug\EntityCrud.exe.config
+D:\Fakultet\Kolokvijumska 2 c#\Entity\SolEntityCrud\EntityCrud\bin\Debug\EntityCrud.exe
+D:\Fakultet\Kolokvijumska 2 c#\Entity\SolEntityCrud\EntityCrud\bin\Debug\EntityCrud.pdb
+D:\Fakultet\Kolokvijumska 2 c#\Entity\SolEntityCrud\EntityCrud\bin\Debug\EntityFramework.dll
+D:\Fakultet\Kolokvijumska 2 c#\Entity\SolEntityCrud\EntityCrud\bin\Debug\EntityFramework.SqlServer.dll
+D:\Fakultet\Kolokvijumska 2 c#\Entity\SolEntityCrud\EntityCrud\bin\Debug\EntityFramework.xml
+D:\Fakultet\Kolokvijumska 2 c#\Entity\SolEntityCrud\EntityCrud\bin\Debug\EntityFramework.SqlServer.xml
+D:\Fakultet\Kolokvijumska 2 c#\Entity\SolEntityCrud\EntityCrud\obj\Debug\EntityCrud.csprojAssemblyReference.cache
+D:\Fakultet\Kolokvijumska 2 c#\Entity\SolEntityCrud\EntityCrud\obj\Debug\EntityCrud.Form1.resources
+D:\Fakultet\Kolokvijumska 2 c#\Entity\SolEntityCrud\EntityCrud\obj\Debug\EntityCrud.Insert.resources
+D:\Fakultet\Kolokvijumska 2 c#\Entity\SolEntityCrud\EntityCrud\obj\Debug\EntityCrud.Properties.Resources.resources
+D:\Fakultet\Kolokvijumska 2 c#\Entity\SolEntityCrud\EntityCrud\obj\Debug\EntityCrud.Update.resources
+D:\Fakultet\Kolokvijumska 2 c#\Entity\SolEntityCrud\EntityCrud\obj\Debug\EntityCrud.csproj.GenerateResource.cache
+D:\Fakultet\Kolokvijumska 2 c#\Entity\SolEntityCrud\EntityCrud\obj\Debug\EntityCrud.csproj.CoreCompileInputs.cache
+D:\Fakultet\Kolokvijumska 2 c#\Entity\SolEntityCrud\EntityCrud\obj\Debug\EntityCrud.csproj.CopyComplete
+D:\Fakultet\Kolokvijumska 2 c#\Entity\SolEntityCrud\EntityCrud\obj\Debug\EntityCrud.exe
+D:\Fakultet\Kolokvijumska 2 c#\Entity\SolEntityCrud\EntityCrud\obj\Debug\EntityCrud.pdb
